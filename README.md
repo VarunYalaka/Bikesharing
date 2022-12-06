@@ -47,7 +47,7 @@ Citi Bikes in New York are very popular. Last time me and Kate had byked everywh
 
 7. Trips by user type, weekday and Gender 
 
-![Screenshot 2022-12-04 at 2 30 19 AM](https://user-images.githubusercontent.com/44387918/205487865-f2e010a5-7ed7-47d5-aa73-1d0a8b8bff27.png)
+![Screenshot 2022-12-05 at 9 56 16 PM](https://user-images.githubusercontent.com/44387918/205831821-b84e51a9-da91-4a80-a7d5-8d0d0f2411b4.png)
 
 8. Gender by Location
 
